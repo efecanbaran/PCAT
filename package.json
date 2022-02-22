@@ -1,0 +1,25 @@
+{
+  "name": "pcat",
+  "version": "1.0.0",
+  "description": "\"# PCAT\"",
+  "main": "index.js",
+  "dependencies": {
+    "express": "^4.17.3",
+    "nodemon": "^2.0.15",
+    "prettier": "^2.5.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "nodemon app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/efecanbaran/PCAT.git"
+  },
+  "author": "Efecan Baran",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/efecanbaran/PCAT/issues"
+  },
+  "homepage": "https://github.com/efecanbaran/PCAT#readme"
+}
